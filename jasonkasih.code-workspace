@@ -3,6 +3,10 @@
 		{
 			"name": "jasonkasih",
 			"path": "."
+		},
+		{
+			"name": "Rainbow-Poem",
+			"path": "..\\Rainbow-Poem"
 		}
 	],
 	"settings": {}
